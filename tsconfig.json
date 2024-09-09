@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES2021", // Définit la version de JavaScript générée
+        "module": "CommonJS", // Utilisation de modules CommonJS (nécessaire pour Node.js)
+        "strict": true, // Active les vérifications strictes
+        "esModuleInterop": true, // Facilite l'importation de modules CommonJS comme 'readline-sync'
+        "skipLibCheck": true, // Ignore la vérification des types des fichiers .d.ts pour accélérer la compilation
+        "forceConsistentCasingInFileNames": true, // Impose une cohérence dans la casse des noms de fichiers
+        "outDir": "./dist", // Indique où stocker les fichiers compilés
+        "rootDir": "./src" // Définit la racine des fichiers source
+    },
+    "include": [
+        "src/**/*"
+    ], // Inclut tous les fichiers TypeScript dans le dossier src
+    "exclude": [
+        "node_modules"
+    ] // Exclut le dossier node_modules de la compilation
+}
