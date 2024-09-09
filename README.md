@@ -4,5 +4,5 @@ Esse script é um bot do Discord que envia mensagens privadas (DMs) para todos o
 
 # Como iniciar o script ✅
 
-`npm i` - Pour installer les modules
+`npm i` - Pour installer les modules \n
 `npx ts-node src/index.ts` - Pour lancer le script
