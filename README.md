@@ -7,4 +7,4 @@ Esse script é um bot do Discord que envia mensagens privadas (DMs) para todos o
 `npm i` - Pour installer les modules
 #### `npx ts-node src/index.ts` - Pour lancer le script
 
-[Captura de tela](https://cdn.discordapp.com/attachments/1281195362669039701/1282729892018126868/image.png?ex=66e06ace&is=66df194e&hm=f7f8704deb54c60c1fa3783e0dba32f95f263335e10c4f0ace14ab2cf1304a50&)
+![Captura de tela](https://cdn.discordapp.com/attachments/1281195362669039701/1282729892018126868/image.png?ex=66e06ace&is=66df194e&hm=f7f8704deb54c60c1fa3783e0dba32f95f263335e10c4f0ace14ab2cf1304a50&)
